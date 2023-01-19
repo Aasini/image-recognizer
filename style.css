@@ -1,0 +1,21 @@
+body
+{
+    background-color: lightblue;
+    color: green;
+}
+.heading
+{
+    width: 80%;
+    font-size: 24px;
+
+}
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+    color: rebeccapurple;
+}
+#camera
+{
+    border: 2px dashed white ;
+width: 350px;
+height: 300px;
+}
